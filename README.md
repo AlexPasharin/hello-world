@@ -1,2 +1,3 @@
 # hello-world
-getting to know GitHub
+
+Hello my nme is Alex and I looooove music
